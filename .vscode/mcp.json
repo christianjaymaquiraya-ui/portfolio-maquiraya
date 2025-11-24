@@ -1,0 +1,12 @@
+{
+  "servers": {
+    "digital-twin-mcp": {
+      "command": "node",
+      "args": [
+        "--import",
+        "tsx",
+        "mcp-server.ts"
+      ]
+    }
+  }
+}

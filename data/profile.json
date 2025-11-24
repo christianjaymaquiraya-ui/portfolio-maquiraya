@@ -1,0 +1,115 @@
+{
+  "personal": {
+    "name": "Christian Jay Maquiraya",
+    "title": "IT Student | Hardware & Aviation Enthusiast",
+    "location": "Tuguegarao City, Cagayan",
+    "summary": "A resilient BSIT student at Saint Paul University Philippines with a strong 'Growth Mindset'. While my academic focus is Web Development, my true passion lies in Hardware, Mechanics, and Aviation. I am an aspiring tech professional who refuses to give up, constantly bridging the gap between my current studies and my technical interests.",
+    "elevator_pitch": "I am an IT student with a heart for mechanics and aviation. Although coding is challenging for me, I make up for it with grit and a willingness to learn. I am looking for roles where I can apply my understanding of technology, preferably in Hardware Support, IT Operations, or Systems Administration.",
+    "contact": {
+      "email": "christianjaymaquiraya@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/christian-jay-maquiraya-54073b39a/",
+      "github": "https://github.com/christianjaymaquiraya-ui",
+      "portfolio": "https://github.com/christianjaymaquiraya-ui/portfolio-maquiraya"
+    }
+  },
+  "salary_location": {
+    "current_salary": "Student",
+    "salary_expectations": "Entry Level / Allowance based",
+    "location_preferences": ["Tuguegarao City", "Manila", "Airports / Tech Hubs"],
+    "relocation_willing": true,
+    "remote_experience": "Willing to train onsite",
+    "travel_availability": "Highly Interested (Aspiring Pilot)",
+    "work_authorization": "Filipino Citizen"
+  },
+  "experience": [
+    {
+      "company": "Saint Paul University Philippines",
+      "title": "BSIT Student",
+      "duration": "Present",
+      "company_context": "Academic Journey",
+      "team_structure": "Class Collaboration",
+      "achievements_star": [
+        {
+          "situation": "Faced difficulty understanding complex programming logic in Web Development.",
+          "task": "Complete the final capstone requirement despite skill gaps.",
+          "action": "Focused on the hardware/deployment side of projects and collaborated with classmates for backend logic, while spending extra hours studying basics.",
+          "result": "Persisted through the semester and continued to improve slowly but surely."
+        }
+      ],
+      "technical_skills_used": ["PC Assembly", "Troubleshooting", "Basic HTML/CSS", "Windows OS"],
+      "leadership_examples": ["Logistics support for group projects", "Hardware setup for class presentations"],
+      "budget_managed": "N/A",
+      "team_size_managed": 0
+    }
+  ],
+  "skills": {
+    "technical": {
+      "programming_languages": [
+        {"language": "HTML/CSS", "years": 1, "proficiency": "Basic", "frameworks": []}
+      ],
+      "hardware_skills": ["Computer Assembly", "Hardware Troubleshooting", "System Maintenance", "Basic Electronics"],
+      "databases": ["MySQL (Basic Concept)"],
+      "cloud_platforms": [],
+      "ai_ml": ["Using AI tools to assist in learning coding"]
+    },
+    "soft_skills": ["Resilience (Grit)", "Willingness to Learn", "Mechanical Aptitude", "Honesty", "Team Support"],
+    "certifications": ["NCII Computer Systems Servicing (Targeting this)"]
+  },
+  "education": {
+    "university": "Saint Paul University Philippines",
+    "degree": "Bachelor of Science in Information Technology",
+    "major": "Web Development",
+    "graduation_year": 2025,
+    "gpa": "Passing",
+    "relevant_coursework": ["Computer Hardware Servicing", "Operating Systems", "Platform Technologies"],
+    "thesis_project": "N/A"
+  },
+  "projects_portfolio": [
+    {
+      "name": "PC Build / Hardware Setup",
+      "description": "Experience in assembling and troubleshooting desktop computers.",
+      "technologies": ["Hardware Components", "BIOS Configuration", "OS Installation"],
+      "impact": "Successfully maintained functionality of personal and family computers."
+    }
+  ],
+  "career_goals": {
+    "short_term": "Graduate BSIT and find an IT Support or Technical Specialist job.",
+    "long_term": "Pursue Aviation/Pilot training or become an Aviation IT Specialist.",
+    "learning_focus": ["Computer Hardware", "Networking", "Aviation Tech"],
+    "industries_interested": ["Aviation", "Logistics", "IT Hardware Services"]
+  },
+  "interview_prep": {
+    "common_questions": {
+      "behavioral": [
+        "What is your biggest weakness?",
+        "Tell me about a time you failed and how you handled it.",
+        "Why did you choose IT if you want to be a pilot?"
+      ],
+      "technical": [
+        "How do you troubleshoot a computer that won't turn on?",
+        "Explain the difference between hardware and software.",
+        "How do you handle stress when you don't know the answer?"
+      ],
+      "situational": [
+        "You are given a coding task you don't understand. What do you do?",
+        "A client is angry because their hardware is broken. How do you respond?"
+      ],
+      "company_research": {
+        "research_areas": ["Company Training Programs", "Opportunities for Hardware Roles"],
+        "preparation_questions": ["Do you offer training for entry-level staff?", "Are there opportunities to work with infrastructure/hardware?"]
+      }
+    },
+    "weakness_mitigation": [
+      {
+        "weakness": "Not skilled in advanced programming.",
+        "mitigation": "I am very open about my learning curve. I compensate by being excellent at hardware tasks, reliable, and having a relentless attitude towards finishing tasks."
+      }
+    ]
+  },
+  "professional_development": {
+    "recent_learning": ["Hardware Specifications", "Basic Web Concepts"],
+    "conferences_attended": [],
+    "publications": [],
+    "open_source": []
+  }
+}
